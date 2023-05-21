@@ -3,15 +3,15 @@
 
 This is a Java-based implementation of the classic arcade game Arkanoid. The project showcases Java programming skills and utilizing GUI and following Object-Oriented Programming (OOP) principles, including game mechanics, collision detection, graphics rendering, and user input handling.
 
-<img src="images/image.png" alt="Image Description">
+<img src="imagesForREADME/image.png" alt="Image Description">
 
-<img src="images/image.png" alt="Image Description">
+<img src="imagesForREADME/image.png" alt="Image Description">
 
-<img src="images/image.png" alt="Image Description">
+<img src="imagesForREADME/image.png" alt="Image Description">
 
-<img src="images/image.png" alt="Image Description">
+<img src="imagesForREADME/image.png" alt="Image Description">
 
-<img src="images/image.png" alt="Image Description">
+<img src="imagesForREADME/image.png" alt="Image Description">
 
 ## Installation
 
